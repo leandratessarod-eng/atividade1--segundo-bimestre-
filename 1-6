@@ -2,7 +2,7 @@
 
 2- Quando o código for executado, aparece uma mensagem, porém, essa mensagem ficou colada: ''Olá mundocomo vai''.
 
-3- A diferença do código do exercício 2, é de que neste exercício usamos ''/n'', logo fazendo com que a frase pule para a linha debaixo, logo,
+3- A diferença do código do exercício 2, é de que neste exercício usamos ''\n'', logo fazendo com que a frase pule para a linha debaixo, logo,
 as frases ficam separadas. 
 
 4- Ele pede para o usuário digitar um nome e depois mostra esse nome na tela.
